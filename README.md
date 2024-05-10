@@ -12,7 +12,7 @@ Exemplo de uso do RestTemplate para integração com APIs externas
 ## Tecnologias Utilizadas
 
 - ![Java](https://img.shields.io/badge/Java-17-blue)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-green)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-green)
 - ![RestTemplate](https://img.shields.io/badge/RestTemplate-Last-red)
 - ![Lombok](https://img.shields.io/badge/Lombok-Last-pink)
 - ![ModelMapper](https://img.shields.io/badge/ModelMapper-Last-yellow)
@@ -25,3 +25,13 @@ Exemplo de uso do RestTemplate para integração com APIs externas
 
 ```sh
 git clone https://github.com/acbueno/spring-consumer-api.git
+```
+2. Importe o projeto em sua IDE preferida.
+3. Execute a aplicação como uma aplicação Spring Boot.
+4. Acesse a API através dos endpoints fornecidos pela aplicação.
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests).
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
